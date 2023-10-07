@@ -3,7 +3,7 @@
 - 👀 I’m interested in open sources project
 - 🌱 I’m currently persuing MCA
 - 💞️ I’m looking to collaborate with some organization for some open source project so i can get some coding  experiences
-- 📫 You can reach me through mail (faizanahmad8728@gmail.com)
+- 📫 You can reach me through email (faizanahmad8728@gmail.com)
 
 <!---
 FaizanAhmad-web/FaizanAhmad-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
